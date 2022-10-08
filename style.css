@@ -1,0 +1,15 @@
+.header {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.skill {
+  padding-left: 10px;
+}
+
+.checked {
+  color: orange;
+}
